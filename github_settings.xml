@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="9db80bf8-6c74-4526-81fd-88931eab3fb4" name="vidwalk">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
